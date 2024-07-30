@@ -82,8 +82,8 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 # Output
-![output1](Output1.png)
-![output2](output2.png)
+![](Output1.png)
+![](output2.png)
 # Conclusion
 This project demonstrates a comprehensive approach to predicting customer churn using machine learning. It covers the entire pipeline from data preprocessing to model deployment. Feel free to explore the code and adapt it to your specific needs.
 
